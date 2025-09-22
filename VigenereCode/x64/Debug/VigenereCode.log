@@ -1,0 +1,3 @@
+﻿  VigenereCode.cpp
+C:\Users\MDH\Desktop\yazılıim\cpp\VigenereCode\VigenereCode.cpp(553,5): warning C4102: 'passwordpart': etiket başvurusu kaldırıldı
+  VigenereCode.vcxproj -> C:\Users\MDH\Desktop\yazılıim\cpp\VigenereCode\x64\Debug\VigenereCode.exe
